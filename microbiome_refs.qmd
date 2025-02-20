@@ -1,0 +1,67 @@
+---
+title: "Asterophryinae Microbiome Bibliography"
+author: "Alexis Shulga, Brianna Correa, Marguerite Butler"
+
+format:
+  html:
+    toc: false
+    number-sections: false
+    highlight-style: github
+  docx: 
+    toc: false
+    number-sections: false
+    highlight-style: github
+  pdf: 
+    toc: false
+    number-sections: false
+    highlight-style: github
+bibliography: microbiome.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+
+---
+
+## Skin Microbiome
+
+## Gut Microbiome
+
+## Environmental Factors
+
+## Community 
+
+## Museum and Historical DNA
+
+[@Heindler:2018] 
+
+-  __Gut microbiome and prey identification from fish that have been formalin fixed.__ Between 20 and 100 years old. Sequenced cytochrome c oxidase subunit I (COI) 313bp from vertebrates and 16S rRNA from bacteria 450bp but had large dropout rates. Did not keep any COI, but able to characterize microbiomes from __26 samples out of 225 starting samples__.
+
+[@Madison:2023]
+
+-  Comparison of __16S rRNA gene sequencing__ and __short-read shotgun metagenomics__ methods for examining museum specimen-associated gut microbiomes.  
+
+[@Raxworthy:2021]
+
+-  Review of challenges with and recent advances in obtaining DNA sequence data from historical (museum) specimens.
+
+[@Hykin:2015]
+
+- Comparison of DNA sequencing of formalin-fixed _Anolis carolinensis_ museum specimens 30 and 100 years old. Used Illumina high throughput sequencing to obtain massive amounts of short reads. Compared liver, leg muscle, and tail tips.  Took care to avoid contamination, best yield was from phenol-chloriform protcol. Minimal PCR cycles. Used 100-bp paired-end Illumina sequencing, pooling both samples on one lane of a HiSeq2000. The older sample failed to provide usable data. For the younger sample, nuclear data did not have sufficient read depth, but they were able to get the whole mitochondrial genome (aided by the high copy number). 
+
+[@Yeates:2016]
+
+- One of the earlier papers reviewing the issues with museum specimens as DNA sources. Focuses on the promise of high throughput methods. Short and sweet. 
+
+[@Zimmermann:2008] 
+
+- A sobering accounting of the DNA damage induced by formalin fixation. They assess average fragment length as a function of age, it is around 50-70bp, with younger specimens longer.
+
+[@Chalifour:2022]
+
+- Alcohol specimens. No problem obtaining gut microbiome from century old snail specimens, but they were never formalin fixed.
+
+
+## Helpful guide to format annotated bibliography (or a CV):   
+
+[@Heiss:2023]. 
