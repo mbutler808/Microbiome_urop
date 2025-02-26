@@ -25,13 +25,41 @@ citations-hover: false
 
 ## Skin Microbiome
 
+[@McCormack:2016]
+
+- Skin microbiome study using feather tip and preserved skin, slight destructive sampling on museum sample. Focused on western scrub jays. Used SNPs. Proved sampling can be long term success in museum samples. 
+
 ## Gut Microbiome
 
+[@Chalifour:2022]
+- Century old specimen successful gutmicrobe extraction w/o destructive sampling. Methods:
+- Alcohol specimens. No problem obtaining gut microbiome from century old snail specimens, but they were never formalin fixed.
+
+ Location of collection more sig factor in gut microbiome composition of communities then what era snail came from (didn't compare species to species). "The effects of decades-long museum preservation on host-microbial communities have not been systematically assessed."
+##Formalin Fixed Sample DNA Collection
+
+[@Ramesh:2017]
+
+- Successful detect of formalin-fix tissue; destructive sampling; able to successfully sequence.
+
+[@Hykin:2015]
+
+- Three tissue types subsampled from formalin-fixed specimens of Anolis carolinensis, After trimming, successfully mapped 27.93% of the cleaned reads to the reference genome, were able to reconstruct the complete mitochondrial genome, and recovered an accurate phylogenetic placement for our specimen. Conclude amount of DNA available, which can vary depending on specimen age and preservation conditions
+
+ 
 ## Environmental Factors
+[@Wandeler:2007]
+
+-  
 
 ## Community 
 
+
 ## Museum and Historical DNA
+
+[@Heyn:2010]
+
+- Issues with using aDNA. Good methods paper. Look into blocking lesions menionted because they were able to work around them but I want to understand more there. 
 
 [@Heindler:2018] 
 
@@ -57,11 +85,31 @@ citations-hover: false
 
 - A sobering accounting of the DNA damage induced by formalin fixation. They assess average fragment length as a function of age, it is around 50-70bp, with younger specimens longer.
 
-[@Chalifour:2022]
+[@Sampaio:2023]
 
-- Alcohol specimens. No problem obtaining gut microbiome from century old snail specimens, but they were never formalin fixed.
+- Phylogenetic study conducted using uropeltid snakes and hDNA. Able to work with swabs of nondestructive and destructive DNA sampling. 
+
+[@Paabo:2004]
+
+- ancient DNA vs h DNA and the advances made in detecting both. Application. Parent paper to @ Zimmermann
+
+[@Staats:2013]
+
+- Using Beetle soaking method found in @Heindler (?). Detailed how genomic sequencing was used on non-destructive sampling of items and what info was able to be gained off non-destructive/desicated plant samples
+
+[@Raxworthy:2021]
+
+-hDNA paper concerning advances in genomic studies in museum samples; useful for work cited paper and review summary of where we are somewhat currently
+
+[@Tin:2014]
+
+- Addresses working with degraded DNA using RAD Tag system, helpful for methods should contamination be high
+
+[@Madison:2023]
+
+- Shotgun metagenomic to capture microbial diversity in museum specimens theat were fixed in formalin, utilized destructive sampling
 
 
 ## Helpful guide to format annotated bibliography (or a CV):   
 
-[@Heiss:2023]. 
+[@Heiss:2023] # Unsure of which reference this is/will investigate
