@@ -29,6 +29,19 @@ citations-hover: false
 
 - Skin microbiome study using feather tip and preserved skin, slight destructive sampling on museum sample. Focused on western scrub jays. Used SNPs. Proved sampling can be long term success in museum samples. 
 
+[@Sylvain:2020]
+
+- Amphibian skin bacteria may help resist Batrachochytrium dendrobatidis (Bd), the fungus causing chytridiomycosis, with some bacteria showing antifungal properties. While Bd was found in 11.8% of frogs, skin bacteria varied by species and location, but not infection status, suggesting other factors influence resistance.
+
+[@Tarnecki:2013]
+
+- The study found that the skin microbiota of fish is highly species-specific, with Proteobacteria being the most abundant group. Certain bacteria, like Aeribacillus, were common across all species, while others, such as Neorickettsia and Microbacterium, were unique to specific fish species.
+
+[@Zheng:2022]
+
+-Human study ID's individual-specific microbial DNA fingerprints from skin microbiomes using metagenomic sequencing data. These fingerprints are stable over time, independent of body site, and can accurately identify donors with 89.78% accuracy. The analysis revealed that 10 out of 12 individual-specific fingerprints could be aligned to Cutibacterium acnes, proving the potential of these microbial markers for personal identification.
+
+
 ## Gut Microbiome
 
 [@Chalifour:2022]
@@ -48,14 +61,17 @@ citations-hover: false
 
  
 ## Environmental Factors
-[@Wandeler:2007]
 
--  
 
 ## Community 
 
 
 ## Museum and Historical DNA
+
+[@Wandeler:2007]
+
+-  Guidelines for working with degraded DNA from museum specimens, including tips on selecting samples, optimizing extraction methods, and using short PCR amplicons for better amplification. It also suggests sequencing strategies and bioinformatics tools designed to handle fragmented DNA, helping researchers unlock valuable genetic data from older specimens.
+
 
 [@Heyn:2010]
 
