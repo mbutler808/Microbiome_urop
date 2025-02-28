@@ -35,7 +35,7 @@ citations-hover: false
 
 [@Sylvain2020]
 
-- Amphibian skin bacteria may help resist Batrachochytrium dendrobatidis (Bd), the fungus causing chytridiomycosis, with some bacteria showing antifungal properties. While Bd was found in 11.8% of frogs, skin bacteria varied by species and location, but not infection status, suggesting other factors influence resistance.
+gut microbiome of teleost fish is shaped by species-specific factors, while the skin mucus microbiome is more influenced by environmental conditions, making it a potential biomarker for ecosystem changes.
 
 [@Tarnecki2013]
 
