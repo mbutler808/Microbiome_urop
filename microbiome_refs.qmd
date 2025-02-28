@@ -25,6 +25,18 @@ citations-hover: false
 
 ## Skin Microbiome
 
+[@Bierlich2018]
+
+Humpback Whale study about seasonal changes with skin microbiome. Calf to Mother interaction. Microbial diversity increases during foraging season.
+
+[@Callewaert2020]
+
+sequencing, bioinformatics, and multidisciplinary research are transforming our understanding of skin-associated microbial communities across diverse environments and species. It explores how microbes colonize the skin of humans, large mammals like humpback whales, and aquatic organisms, while emphasizing the influence of environmental factors such as water and air.
+
+[@Larsen2013]
+
+Skin microbiota of fishes good oints towards host species specificity. extensive detail on cr and sequencing and data analysis of what can be done. interesting concet of the donminant microbiota. discusses seasonal changes.
+
 [@Kruger2020]
 
 -  frog skin microbiota vary by host species and environment, but not chytrid infection, highlighting the role of microbial composition in disease dynamics and resistance.
@@ -44,6 +56,10 @@ gut microbiome of teleost fish is shaped by species-specific factors, while the 
 [@Zheng2022]
 
 -Human study ID's individual-specific microbial DNA fingerprints from skin microbiomes using metagenomic sequencing data. These fingerprints are stable over time, independent of body site, and can accurately identify donors with 89.78% accuracy. The analysis revealed that 10 out of 12 individual-specific fingerprints could be aligned to Cutibacterium acnes, proving the potential of these microbial markers for personal identification.
+
+[@Skowron2021]
+
+study of human skin microbiome in maintaining skin health, emphasizing how its complex microbial community—including bacteria, fungi, viruses, archaea, mites, and phages—interacts with the immune system and responds to internal and external environmental factors. It highlights the impact of microbiome imbalances (dysbiosis) on skin diseases, discusses molecular identification techniques for studying these microorganisms, and underscores the broader systemic consequences of skin microbiome disturbances beyond dermatological conditions
 
 
 ## Gut Microbiome
