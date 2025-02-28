@@ -72,7 +72,7 @@ study of human skin microbiome in maintaining skin health, emphasizing how its c
 
 ##Formalin Fixed Sample DNA Collection
 
-[@Ramesh:2017]
+[@Ramesh2017]
 
 - Successful detect of formalin-fix tissue; destructive sampling; able to successfully sequence.
 
