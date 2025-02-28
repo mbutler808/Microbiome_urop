@@ -52,17 +52,14 @@ citations-hover: false
 
 - Century old specimen successful gutmicrobe extraction w/o destructive sampling. Methods:
 - Alcohol specimens. No problem obtaining gut microbiome from century old snail specimens, but they were never formalin fixed.
+- Location of collection more sig factor in gut microbiome composition of communities then what era snail came from (didn't compare species to species). "The effects of decades-long museum preservation on host-microbial communities have not been systematically assessed."
 
- Location of collection more sig factor in gut microbiome composition of communities then what era snail came from (didn't compare species to species). "The effects of decades-long museum preservation on host-microbial communities have not been systematically assessed."
 ##Formalin Fixed Sample DNA Collection
 
 [@Ramesh:2017]
 
 - Successful detect of formalin-fix tissue; destructive sampling; able to successfully sequence.
 
-[@Hykin2015]
-
-- Three tissue types subsampled from formalin-fixed specimens of Anolis carolinensis, After trimming, successfully mapped 27.93% of the cleaned reads to the reference genome, were able to reconstruct the complete mitochondrial genome, and recovered an accurate phylogenetic placement for our specimen. Conclude amount of DNA available, which can vary depending on specimen age and preservation conditions
 
  
 ## Environmental Factors
@@ -98,6 +95,8 @@ citations-hover: false
 
 - Comparison of DNA sequencing of formalin-fixed _Anolis carolinensis_ museum specimens 30 and 100 years old. Used Illumina high throughput sequencing to obtain massive amounts of short reads. Compared liver, leg muscle, and tail tips.  Took care to avoid contamination, best yield was from phenol-chloriform protcol. Minimal PCR cycles. Used 100-bp paired-end Illumina sequencing, pooling both samples on one lane of a HiSeq2000. The older sample failed to provide usable data. For the younger sample, nuclear data did not have sufficient read depth, but they were able to get the whole mitochondrial genome (aided by the high copy number). 
 
+- Three tissue types subsampled from formalin-fixed specimens of Anolis carolinensis, After trimming, successfully mapped 27.93% of the cleaned reads to the reference genome, were able to reconstruct the complete mitochondrial genome, and recovered an accurate phylogenetic placement for our specimen. Conclude amount of DNA available, which can vary depending on specimen age and preservation conditions
+
 [@Yeates2016]
 
 - One of the earlier papers reviewing the issues with museum specimens as DNA sources. Focuses on the promise of high throughput methods. Short and sweet. 
@@ -112,7 +111,7 @@ citations-hover: false
 
 [@Paeaebo2004]
 
-- ancient DNA vs h DNA and the advances made in detecting both. Application. Parent paper to @ Zimmermann
+- ancient DNA vs h DNA and the advances made in detecting both. Application. Parent paper to Zimmermann 2008.
 
 [@Staats2013]
 
