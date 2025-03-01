@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"contrees"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "microbiome_refs.qmd",
+			"settings":
+			{
+				"buffer_size": 7727,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					2,
+					"left_delete",
+					null,
+					"AgAAAKQWAAAAAAAApBYAAAAAAAABAAAAQKMWAAAAAAAAoxYAAAAAAAABAAAAWw",
+					"AQAAAAAAAAABAAAApRYAAAAAAAClFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKsWAAAAAAAArBYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqxYAAAAAAACrFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAALAWAAAAAAAAsBYAAAAAAAABAAAAXQ",
+					"AQAAAAAAAAABAAAAsRYAAAAAAACxFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAALAWAAAAAAAAsRYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsBYAAAAAAACwFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAALAWAAAAAAAAsBYAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAsRYAAAAAAACxFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABcGQAALS0tCnRpdGxlOiAiQXN0ZXJvcGhyeWluYWUgTWljcm9iaW9tZSBCaWJsaW9ncmFwaHkiCmF1dGhvcjogIkFsZXhpcyBTaHVsZ2EsIEJyaWFubmEgQ29ycmVhLCBNYXJndWVyaXRlIEJ1dGxlciIKCmZvcm1hdDoKICBodG1sOgogICAgdG9jOiBmYWxzZQogICAgbnVtYmVyLXNlY3Rpb25zOiBmYWxzZQogICAgaGlnaGxpZ2h0LXN0eWxlOiBnaXRodWIKICBkb2N4OiAKICAgIHRvYzogZmFsc2UKICAgIG51bWJlci1zZWN0aW9uczogZmFsc2UKICAgIGhpZ2hsaWdodC1zdHlsZTogZ2l0aHViCiAgcGRmOiAKICAgIHRvYzogZmFsc2UKICAgIG51bWJlci1zZWN0aW9uczogZmFsc2UKICAgIGhpZ2hsaWdodC1zdHlsZTogZ2l0aHViCmJpYmxpb2dyYXBoeTogbWljcm9iaW9tZS5iaWIKY3NsOiBhcGEtY3YuY3NsCnN1cHByZXNzLWJpYmxpb2dyYXBoeTogdHJ1ZQpsaW5rLWNpdGF0aW9uczogZmFsc2UKY2l0YXRpb25zLWhvdmVyOiBmYWxzZQoKLS0tCgojIyBTa2luIE1pY3JvYmlvbWUKCltAS3J1Z2VyMjAyMF0KCi0gIGZyb2cgc2tpbiBtaWNyb2Jpb3RhIHZhcnkgYnkgaG9zdCBzcGVjaWVzIGFuZCBlbnZpcm9ubWVudCwgYnV0IG5vdCBjaHl0cmlkIGluZmVjdGlvbiwgaGlnaGxpZ2h0aW5nIHRoZSByb2xlIG9mIG1pY3JvYmlhbCBjb21wb3NpdGlvbiBpbiBkaXNlYXNlIGR5bmFtaWNzIGFuZCByZXNpc3RhbmNlLgoKW0BNY0Nvcm1hY2syMDE4XQoKLSBTa2luIG1pY3JvYmlvbWUgc3R1ZHkgdXNpbmcgZmVhdGhlciB0aXAgYW5kIHByZXNlcnZlZCBza2luLCBzbGlnaHQgZGVzdHJ1Y3RpdmUgc2FtcGxpbmcgb24gbXVzZXVtIHNhbXBsZS4gRm9jdXNlZCBvbiB3ZXN0ZXJuIHNjcnViIGpheXMuIFVzZWQgU05Qcy4gUHJvdmVkIHNhbXBsaW5nIGNhbiBiZSBsb25nIHRlcm0gc3VjY2VzcyBpbiBtdXNldW0gc2FtcGxlcy4gCgpbQFN5bHZhaW4yMDIwXQoKLSBBbXBoaWJpYW4gc2tpbiBiYWN0ZXJpYSBtYXkgaGVscCByZXNpc3QgQmF0cmFjaG9jaHl0cml1bSBkZW5kcm9iYXRpZGlzIChCZCksIHRoZSBmdW5ndXMgY2F1c2luZyBjaHl0cmlkaW9teWNvc2lzLCB3aXRoIHNvbWUgYmFjdGVyaWEgc2hvd2luZyBhbnRpZnVuZ2FsIHByb3BlcnRpZXMuIFdoaWxlIEJkIHdhcyBmb3VuZCBpbiAxMS44JSBvZiBmcm9ncywgc2tpbiBiYWN0ZXJpYSB2YXJpZWQgYnkgc3BlY2llcyBhbmQgbG9jYXRpb24sIGJ1dCBub3QgaW5mZWN0aW9uIHN0YXR1cywgc3VnZ2VzdGluZyBvdGhlciBmYWN0b3JzIGluZmx1ZW5jZSByZXNpc3RhbmNlLgoKW0BUYXJuZWNraTIwMTNdCgotIFRoZSBzdHVkeSBmb3VuZCB0aGF0IHRoZSBza2luIG1pY3JvYmlvdGEgb2YgZmlzaCBpcyBoaWdobHkgc3BlY2llcy1zcGVjaWZpYywgd2l0aCBQcm90ZW9iYWN0ZXJpYSBiZWluZyB0aGUgbW9zdCBhYnVuZGFudCBncm91cC4gQ2VydGFpbiBiYWN0ZXJpYSwgbGlrZSBBZXJpYmFjaWxsdXMsIHdlcmUgY29tbW9uIGFjcm9zcyBhbGwgc3BlY2llcywgd2hpbGUgb3RoZXJzLCBzdWNoIGFzIE5lb3JpY2tldHRzaWEgYW5kIE1pY3JvYmFjdGVyaXVtLCB3ZXJlIHVuaXF1ZSB0byBzcGVjaWZpYyBmaXNoIHNwZWNpZXMuCgpbQFpoZW5nMjAyMl0KCi1IdW1hbiBzdHVkeSBJRCdzIGluZGl2aWR1YWwtc3BlY2lmaWMgbWljcm9iaWFsIEROQSBmaW5nZXJwcmludHMgZnJvbSBza2luIG1pY3JvYmlvbWVzIHVzaW5nIG1ldGFnZW5vbWljIHNlcXVlbmNpbmcgZGF0YS4gVGhlc2UgZmluZ2VycHJpbnRzIGFyZSBzdGFibGUgb3ZlciB0aW1lLCBpbmRlcGVuZGVudCBvZiBib2R5IHNpdGUsIGFuZCBjYW4gYWNjdXJhdGVseSBpZGVudGlmeSBkb25vcnMgd2l0aCA4OS43OCUgYWNjdXJhY3kuIFRoZSBhbmFseXNpcyByZXZlYWxlZCB0aGF0IDEwIG91dCBvZiAxMiBpbmRpdmlkdWFsLXNwZWNpZmljIGZpbmdlcnByaW50cyBjb3VsZCBiZSBhbGlnbmVkIHRvIEN1dGliYWN0ZXJpdW0gYWNuZXMsIHByb3ZpbmcgdGhlIHBvdGVudGlhbCBvZiB0aGVzZSBtaWNyb2JpYWwgbWFya2VycyBmb3IgcGVyc29uYWwgaWRlbnRpZmljYXRpb24uCgoKIyMgR3V0IE1pY3JvYmlvbWUKCltAQ2hhbGlmb3VyMjAyMl0KCi0gQ2VudHVyeSBvbGQgc3BlY2ltZW4gc3VjY2Vzc2Z1bCBndXRtaWNyb2JlIGV4dHJhY3Rpb24gdy9vIGRlc3RydWN0aXZlIHNhbXBsaW5nLiBNZXRob2RzOgotIEFsY29ob2wgc3BlY2ltZW5zLiBObyBwcm9ibGVtIG9idGFpbmluZyBndXQgbWljcm9iaW9tZSBmcm9tIGNlbnR1cnkgb2xkIHNuYWlsIHNwZWNpbWVucywgYnV0IHRoZXkgd2VyZSBuZXZlciBmb3JtYWxpbiBmaXhlZC4KLSBMb2NhdGlvbiBvZiBjb2xsZWN0aW9uIG1vcmUgc2lnIGZhY3RvciBpbiBndXQgbWljcm9iaW9tZSBjb21wb3NpdGlvbiBvZiBjb21tdW5pdGllcyB0aGVuIHdoYXQgZXJhIHNuYWlsIGNhbWUgZnJvbSAoZGlkbid0IGNvbXBhcmUgc3BlY2llcyB0byBzcGVjaWVzKS4gIlRoZSBlZmZlY3RzIG9mIGRlY2FkZXMtbG9uZyBtdXNldW0gcHJlc2VydmF0aW9uIG9uIGhvc3QtbWljcm9iaWFsIGNvbW11bml0aWVzIGhhdmUgbm90IGJlZW4gc3lzdGVtYXRpY2FsbHkgYXNzZXNzZWQuIgoKIyNGb3JtYWxpbiBGaXhlZCBTYW1wbGUgRE5BIENvbGxlY3Rpb24KCltAUmFtZXNoOjIwMTddCgotIFN1Y2Nlc3NmdWwgZGV0ZWN0IG9mIGZvcm1hbGluLWZpeCB0aXNzdWU7IGRlc3RydWN0aXZlIHNhbXBsaW5nOyBhYmxlIHRvIHN1Y2Nlc3NmdWxseSBzZXF1ZW5jZS4KCgogCiMjIEVudmlyb25tZW50YWwgRmFjdG9ycwoKCiMjIENvbW11bml0eSAKCgojIyBNdXNldW0gYW5kIEhpc3RvcmljYWwgRE5BCgpbQFdhbmRlbGVyMjAwN10KCi0gIEd1aWRlbGluZXMgZm9yIHdvcmtpbmcgd2l0aCBkZWdyYWRlZCBETkEgZnJvbSBtdXNldW0gc3BlY2ltZW5zLCBpbmNsdWRpbmcgdGlwcyBvbiBzZWxlY3Rpbmcgc2FtcGxlcywgb3B0aW1pemluZyBleHRyYWN0aW9uIG1ldGhvZHMsIGFuZCB1c2luZyBzaG9ydCBQQ1IgYW1wbGljb25zIGZvciBiZXR0ZXIgYW1wbGlmaWNhdGlvbi4gSXQgYWxzbyBzdWdnZXN0cyBzZXF1ZW5jaW5nIHN0cmF0ZWdpZXMgYW5kIGJpb2luZm9ybWF0aWNzIHRvb2xzIGRlc2lnbmVkIHRvIGhhbmRsZSBmcmFnbWVudGVkIEROQSwgaGVscGluZyByZXNlYXJjaGVycyB1bmxvY2sgdmFsdWFibGUgZ2VuZXRpYyBkYXRhIGZyb20gb2xkZXIgc3BlY2ltZW5zLgoKCltASGV5bjIwMTBdCgotIElzc3VlcyB3aXRoIHVzaW5nIGFETkEuIEdvb2QgbWV0aG9kcyBwYXBlci4gTG9vayBpbnRvIGJsb2NraW5nIGxlc2lvbnMgbWVuaW9udGVkIGJlY2F1c2UgdGhleSB3ZXJlIGFibGUgdG8gd29yayBhcm91bmQgdGhlbSBidXQgSSB3YW50IHRvIHVuZGVyc3RhbmQgbW9yZSB0aGVyZS4gCgpbQEhlaW5kbGVyMjAxOF0gCgotICBfX0d1dCBtaWNyb2Jpb21lIGFuZCBwcmV5IGlkZW50aWZpY2F0aW9uIGZyb20gZmlzaCB0aGF0IGhhdmUgYmVlbiBmb3JtYWxpbiBmaXhlZC5fXyBCZXR3ZWVuIDIwIGFuZCAxMDAgeWVhcnMgb2xkLiBTZXF1ZW5jZWQgY3l0b2Nocm9tZSBjIG94aWRhc2Ugc3VidW5pdCBJIChDT0kpIDMxM2JwIGZyb20gdmVydGVicmF0ZXMgYW5kIDE2UyByUk5BIGZyb20gYmFjdGVyaWEgNDUwYnAgYnV0IGhhZCBsYXJnZSBkcm9wb3V0IHJhdGVzLiBEaWQgbm90IGtlZXAgYW55IENPSSwgYnV0IGFibGUgdG8gY2hhcmFjdGVyaXplIG1pY3JvYmlvbWVzIGZyb20gX18yNiBzYW1wbGVzIG91dCBvZiAyMjUgc3RhcnRpbmcgc2FtcGxlc19fLgoKW0BNYWRpc29uMjAyM10KCi0gIENvbXBhcmlzb24gb2YgX18xNlMgclJOQSBnZW5lIHNlcXVlbmNpbmdfXyBhbmQgX19zaG9ydC1yZWFkIHNob3RndW4gbWV0YWdlbm9taWNzX18gbWV0aG9kcyBmb3IgZXhhbWluaW5nIG11c2V1bSBzcGVjaW1lbi1hc3NvY2lhdGVkIGd1dCBtaWNyb2Jpb21lcy4gIAoKW0BSYXh3b3J0aHkyMDIxXQoKLSAgUmV2aWV3IG9mIGNoYWxsZW5nZXMgd2l0aCBhbmQgcmVjZW50IGFkdmFuY2VzIGluIG9idGFpbmluZyBETkEgc2VxdWVuY2UgZGF0YSBmcm9tIGhpc3RvcmljYWwgKG11c2V1bSkgc3BlY2ltZW5zLgoKW0BIeWtpbjIwMTVdCgotIENvbXBhcmlzb24gb2YgRE5BIHNlcXVlbmNpbmcgb2YgZm9ybWFsaW4tZml4ZWQgX0Fub2xpcyBjYXJvbGluZW5zaXNfIG11c2V1bSBzcGVjaW1lbnMgMzAgYW5kIDEwMCB5ZWFycyBvbGQuIFVzZWQgSWxsdW1pbmEgaGlnaCB0aHJvdWdocHV0IHNlcXVlbmNpbmcgdG8gb2J0YWluIG1hc3NpdmUgYW1vdW50cyBvZiBzaG9ydCByZWFkcy4gQ29tcGFyZWQgbGl2ZXIsIGxlZyBtdXNjbGUsIGFuZCB0YWlsIHRpcHMuICBUb29rIGNhcmUgdG8gYXZvaWQgY29udGFtaW5hdGlvbiwgYmVzdCB5aWVsZCB3YXMgZnJvbSBwaGVub2wtY2hsb3JpZm9ybSBwcm90Y29sLiBNaW5pbWFsIFBDUiBjeWNsZXMuIFVzZWQgMTAwLWJwIHBhaXJlZC1lbmQgSWxsdW1pbmEgc2VxdWVuY2luZywgcG9vbGluZyBib3RoIHNhbXBsZXMgb24gb25lIGxhbmUgb2YgYSBIaVNlcTIwMDAuIFRoZSBvbGRlciBzYW1wbGUgZmFpbGVkIHRvIHByb3ZpZGUgdXNhYmxlIGRhdGEuIEZvciB0aGUgeW91bmdlciBzYW1wbGUsIG51Y2xlYXIgZGF0YSBkaWQgbm90IGhhdmUgc3VmZmljaWVudCByZWFkIGRlcHRoLCBidXQgdGhleSB3ZXJlIGFibGUgdG8gZ2V0IHRoZSB3aG9sZSBtaXRvY2hvbmRyaWFsIGdlbm9tZSAoYWlkZWQgYnkgdGhlIGhpZ2ggY29weSBudW1iZXIpLiAKCi0gVGhyZWUgdGlzc3VlIHR5cGVzIHN1YnNhbXBsZWQgZnJvbSBmb3JtYWxpbi1maXhlZCBzcGVjaW1lbnMgb2YgQW5vbGlzIGNhcm9saW5lbnNpcywgQWZ0ZXIgdHJpbW1pbmcsIHN1Y2Nlc3NmdWxseSBtYXBwZWQgMjcuOTMlIG9mIHRoZSBjbGVhbmVkIHJlYWRzIHRvIHRoZSByZWZlcmVuY2UgZ2Vub21lLCB3ZXJlIGFibGUgdG8gcmVjb25zdHJ1Y3QgdGhlIGNvbXBsZXRlIG1pdG9jaG9uZHJpYWwgZ2Vub21lLCBhbmQgcmVjb3ZlcmVkIGFuIGFjY3VyYXRlIHBoeWxvZ2VuZXRpYyBwbGFjZW1lbnQgZm9yIG91ciBzcGVjaW1lbi4gQ29uY2x1ZGUgYW1vdW50IG9mIEROQSBhdmFpbGFibGUsIHdoaWNoIGNhbiB2YXJ5IGRlcGVuZGluZyBvbiBzcGVjaW1lbiBhZ2UgYW5kIHByZXNlcnZhdGlvbiBjb25kaXRpb25zCgpbQFllYXRlczIwMTZdCgotIE9uZSBvZiB0aGUgZWFybGllciBwYXBlcnMgcmV2aWV3aW5nIHRoZSBpc3N1ZXMgd2l0aCBtdXNldW0gc3BlY2ltZW5zIGFzIEROQSBzb3VyY2VzLiBGb2N1c2VzIG9uIHRoZSBwcm9taXNlIG9mIGhpZ2ggdGhyb3VnaHB1dCBtZXRob2RzLiBTaG9ydCBhbmQgc3dlZXQuIAoKW0BaaW1tZXJtYW5uMjAwOF0gCgotIEEgc29iZXJpbmcgYWNjb3VudGluZyBvZiB0aGUgRE5BIGRhbWFnZSBpbmR1Y2VkIGJ5IGZvcm1hbGluIGZpeGF0aW9uLiBUaGV5IGFzc2VzcyBhdmVyYWdlIGZyYWdtZW50IGxlbmd0aCBhcyBhIGZ1bmN0aW9uIG9mIGFnZSwgaXQgaXMgYXJvdW5kIDUwLTcwYnAsIHdpdGggeW91bmdlciBzcGVjaW1lbnMgbG9uZ2VyLgoKW0BTYW1wYWlvMjAyM10KCi0gUGh5bG9nZW5ldGljIHN0dWR5IGNvbmR1Y3RlZCB1c2luZyB1cm9wZWx0aWQgc25ha2VzIGFuZCBoRE5BLiBBYmxlIHRvIHdvcmsgd2l0aCBzd2FicyBvZiBub25kZXN0cnVjdGl2ZSBhbmQgZGVzdHJ1Y3RpdmUgRE5BIHNhbXBsaW5nLiAKCltAUGFlYWVibzIwMDRdCgotIGFuY2llbnQgRE5BIHZzIGggRE5BIGFuZCB0aGUgYWR2YW5jZXMgbWFkZSBpbiBkZXRlY3RpbmcgYm90aC4gQXBwbGljYXRpb24uIFBhcmVudCBwYXBlciB0byBaaW1tZXJtYW5uIDIwMDguCgpbQFN0YWF0czIwMTNdCgotIFVzaW5nIEJlZXRsZSBzb2FraW5nIG1ldGhvZCBmb3VuZCBpbiBIZWluZGxlciAyMDE4LiBEZXRhaWxlZCBob3cgZ2Vub21pYyBzZXF1ZW5jaW5nIHdhcyB1c2VkIG9uIG5vbi1kZXN0cnVjdGl2ZSBzYW1wbGluZyBvZiBpdGVtcyBhbmQgd2hhdCBpbmZvIHdhcyBhYmxlIHRvIGJlIGdhaW5lZCBvZmYgbm9uLWRlc3RydWN0aXZlL2Rlc2ljYXRlZCBwbGFudCBzYW1wbGVzCgpbQFJheHdvcnRoeTIwMjFdCgotaEROQSBwYXBlciBjb25jZXJuaW5nIGFkdmFuY2VzIGluIGdlbm9taWMgc3R1ZGllcyBpbiBtdXNldW0gc2FtcGxlczsgdXNlZnVsIGZvciB3b3JrIGNpdGVkIHBhcGVyIGFuZCByZXZpZXcgc3VtbWFyeSBvZiB3aGVyZSB3ZSBhcmUgc29tZXdoYXQgY3VycmVudGx5CgpbQFRpbjIwMTRdCgotIEFkZHJlc3NlcyB3b3JraW5nIHdpdGggZGVncmFkZWQgRE5BIHVzaW5nIFJBRCBUYWcgc3lzdGVtLCBoZWxwZnVsIGZvciBtZXRob2RzIHNob3VsZCBjb250YW1pbmF0aW9uIGJlIGhpZ2gKCltATWFkaXNvbjIwMjNdCgotIFNob3RndW4gbWV0YWdlbm9taWMgdG8gY2FwdHVyZSBtaWNyb2JpYWwgZGl2ZXJzaXR5IGluIG11c2V1bSBzcGVjaW1lbnMgdGhlYXQgd2VyZSBmaXhlZCBpbiBmb3JtYWxpbiwgdXRpbGl6ZWQgZGVzdHJ1Y3RpdmUgc2FtcGxpbmcKCgojIyBIZWxwZnVsIGd1aWRlIHRvIGZvcm1hdCBhbm5vdGF0ZWQgYmlibGlvZ3JhcGh5IChvciBhIENWKTogICAKCltASGVpc3M6MjAyM10gAAAAAAAAAAAvHgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsBYAAAAAAACwFgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/SendCode/support/R - Source File.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SendCode/support/R - Source File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"quarto",
+				"Set Syntax: Quarto"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"markdown",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"MarkdownPreview",
+				"MarkdownLivePreview: Open Settings"
+			],
+			[
+				"Markdown",
+				"Preferences: MarkdownEditing Settings"
+			],
+			[
+				"MarkdownLi",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"previw",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"sendcode",
+				"SendCode: Choose Program"
+			],
+			[
+				"preview",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"markdownliv",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"",
+				"Set Syntax: R"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: R"
+			],
+			[
+				"set syntax: R",
+				"Set Syntax: R"
+			],
+			[
+				"terminus: ope",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"set syntax: r",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Microbiome_urop/microbiome_refs.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreophryne.bib",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreo.cut.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Products/oreo.qmd",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Code/oreoplots.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/Oreophryne_manuscript/Code/plotting_functions.R",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2024/animalphys2024.sublime-project",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2024/animalphys2024.sublime-workspace",
+		"/Users/marguerite/Library/Mobile Documents/com~apple~CloudDocs/Documents/git/animalphys-2024/schedule.qmd",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/tables.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/processing_code.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/plotting_functions.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/genetree_speciestree_stats_all.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Products/oreophryne.bib",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/oreocode.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/print_def_cut_text.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/clean_metadata.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree_5loci/iqtreerun_genetreespeciestree_all198_5partitions.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Products/oreo.qmd",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/treeplotting_gradient.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/edit.nexus.R",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/ic_oaref.csv",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/ils_oacp.csv",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/trimmed_iqtree_2024_metadata.csv",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/Rplot_colors.pdf",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Code/temp.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree_5loci/all198_5loci.iqtree",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree_5loci/iqtreerun_genetreespeciestree_all198_15partitions.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/twotaxa_tests/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_cophix_paedo_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_references_allspecies_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_references_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_allspecies_198tips.fasta",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/input/asterophryinae_5partitions.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/mesquite_20240508_oreophryne_aphantophryne_cophix_paedo_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_references_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_cophix_paedo_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_cophix_paedo_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_outgroup_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_oreophryne_aphantophryne_references_allspecies_trimmed.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_allspecies_207tips.fasta",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/alignment_20240508_allspecies_207tips.fasta.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree/iqtreerun_genetreespeciestree_oaref.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_auparoparo_aphantophryne_outgroup_trimmed/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed_allspecies/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed/oreo_aupa_apha_references_trimmed.log",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed_allspecies/oreophryne_aphantophryne_references_trimmed.log",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_references_trimmed/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/oreophryne_aphantophryne_cophix_paedo_outgroup_trimmed/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Products/Oreophryne Manuscript Draft.qmd",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/Astral/Astral_speciestree.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/onetaxa_tests_threeoutgroups/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/twotaxa_tests_A_sp4/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/twotaxa_twocoph_tests/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/twotaxa_tests/iqtreerun_bestmodel_oreo.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Products/Oreophryne Manuscript Draft_old.qmd",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree/iqtreerun_genetreespeciestree_oacp.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree/iqtreerun_genetreespeciestree_oa.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree/iqtreerun_genetreespeciestree_all207.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/genetree_speciestree/iqtreerun_genetreespeciestree.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/input/asterophryinae_dates.txt",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/onetaxa_tests/iqtreerun_bestmodel.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/onetaxa_tests_threeoutgroups/iqtreerun_bestmodel_oreo.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/onetaxa_tests/iqtreerun_bestmodel_oreo.sh",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/Data/IQTree/mesquite_alignment/onetaxa/aupa1.nex",
+		"/Users/marguerite/Documents/git/Oreophryne_manuscript/.gitignore",
+		"/Users/marguerite/Documents/Macroevolution/Exam_1.md",
+		"/Users/marguerite/Documents/git/macroevolution-class/README.md",
+		"/Users/marguerite/Documents/git/macroevolution-class/exams/exam1/Exam1notes.md",
+		"/Users/marguerite/Documents/git/macroevolution-class/discussions/2024-02-29-modularity/README.md",
+		"/Users/marguerite/Documents/git/macroevolution-class/discussions/2024-02-15-20-species-concepts/README.md",
+		"/Users/marguerite/Documents/git/macroevolution-class/discussions/2024-02-15-species-concepts/README.md",
+		"/Users/marguerite/Documents/git/macroevolution-class/discussions/2024-02-06-cladistic-taxonomy/README.md",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design4.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-10-16-muscles2/muscles2.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab12-human-renal/Lab12.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-11-20-osmoregulation2/osmoregulation2.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design3a.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-11-06-ventilation/ventilation.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/slides.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-10-09-muscles/muscles.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/schedule.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab8-human-emg/Lab8.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/resources.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/_quarto.yml",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab11-human-eeg/Lab11.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-11-27-excretion/excretion.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/docs/projects/design4.pdf",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design3-resources.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design4-resources.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design1-FAQ.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-11-13-osmoregulation/osmoregulation.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design3.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design3-turnin.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/slides 2.html",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab11-human-eeg/Lab11-AF-2.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab11-human-eeg/Lab8.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-09-25-digestion/digestion.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design3-process.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-10-30-blood-respiration/blood-respiration.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab9-10-toad-muscle/Lab9-10.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-09-18-feeding/feeding.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design1.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-08-28-Metabolism/index.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab7-toad-nerve/Lab7.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-10-23-biomechanics-locomotion/biomechanics-locomotion.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design2-turnin.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab6-lobster-heart/Lab6.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/_column_examples.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/index.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab3-human-peripheral-circulation-dive-response/Lab3.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/syllabus.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design1-turnin.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-10-02-neurons/neurons.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab2-zoo/index.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs-misc/lab-notebook.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab4-human-ecg/Lab4.qmd",
+		"/Users/marguerite/Documents/git/rclass-site/_quarto.yml",
+		"/Users/marguerite/Documents/git/rclass-site/lectures.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/labs/Lab1-heart-rate-and-data-analysis/index.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design2.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/projects/design2-FAQ.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-10-02-neurons/_neurons.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/posts/2023-09-11-cardiac-function/cardiac.qmd",
+		"/Users/marguerite/Documents/git/animalphys-site/homework/HW3feeding_digestion.pdf"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "microbiome_refs.qmd",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5808,
+								5808
+							]
+						],
+						"settings":
+						{
+							"allow_quiet_save": true,
+							"syntax": "Packages/Quarto/Quarto.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 66.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 36.0
+	},
+	"pinned_build_system": "",
+	"project": "microbiome_urop.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/git/rclass-site/syllabus.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
