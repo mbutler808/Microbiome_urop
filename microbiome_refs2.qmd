@@ -109,7 +109,21 @@ citations-hover: false
 
 - Successful detect of formalin-fix tissue; destructive sampling; able to successfully sequence.
 
+## Methodology Papers
 
+<<<<<<< HEAD
+=======
+[@FieschiMeric2023]
+
+- Non-invasive swabbing technique for sampling salamanders to collect skin microbiome
+ 
+## Environmental Factors
+
+
+## Community 
+
+
+>>>>>>> b0cf3e034e0c93037b391e8a0fd6f9af08c6b3fc
 ## Museum and Historical DNA
 
 [@Wandeler2007]
