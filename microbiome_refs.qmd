@@ -111,8 +111,6 @@ citations-hover: false
 
 ## Methodology Papers
 
-<<<<<<< HEAD
-=======
 [@FieschiMeric2023]
 
 - Non-invasive swabbing technique for sampling salamanders to collect skin microbiome
@@ -123,7 +121,6 @@ citations-hover: false
 ## Community 
 
 
->>>>>>> b0cf3e034e0c93037b391e8a0fd6f9af08c6b3fc
 ## Museum and Historical DNA
 
 [@Wandeler2007]
