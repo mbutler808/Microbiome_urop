@@ -1,0 +1,43 @@
+---
+title: "Asterophryinae Skin Microbiome Project"
+author: "Alexis Shulga, Brianna Correa, Marguerite Butler"
+
+format:
+  html:
+    toc: false
+    number-sections: false
+    highlight-style: github
+    cite-method: natbib
+    natbiboptions: numbers
+  docx: 
+    toc: false
+    number-sections: false
+    highlight-style: github
+    cite-method: natbib
+    natbiboptions: numbers
+  pdf: 
+    toc: false
+    number-sections: false
+    highlight-style: github
+    cite-method: natbib
+    natbiboptions: numbers
+bibliography: microbiome.bib
+csl: apa.csl
+
+---
+
+## Project Description
+
+The skin microbiome represents the first layer of defense against environmental pathogens, and may be involved in important functional relationships between the host and the environment. Although many skin microbiomes have been characterized, we still know little about the causes of microbiome diversity, whether bacterial composition provides functional benefit, is related to environmental factors, or is host-specific [@.  
+
+Organisms host diverse communities of microbes on their skin, known as the skin microbiome, however, there is much speculation about what factors influence variations in the microbiome across organisms (Troitsky et al 2023). This study explores three key hypotheses regarding microbiome variation in the microhylid frogs.One leading hypothesis is that the microbiome is species-specific, like a microbial fingerprint(Zheng et al 2022). Alternatively,  environmental factors may drive microbiome composition (Bierlich et al 2018). Another possibility is that certain microbial species persist across different hosts due to a shared functional benefit, such as protection against pathogenesis.(Bletz et al 2017).
+
+
+Hypothesis 1: microbiome is species specific, like a "fingerprint"(Zheng et al 2022 Identifying individual-specific microbial DNA fingerprints from skin microbiomes
+ ). Vs. 
+Hypothesis 2: skin microbiome is derived from the locality , so species in the same locality or same microhabitat will share a common microbiome.(Bierlich et al 2018 Humpback whale Microbial diversity increases during foraging season.) 
+Hypothesis 3: Parts of microbiome may have functional benefits. In this case we expect frogs to share parts of the microbiome despite being different species or at different localities  or microhabitats. (Bletz et al 2017 Bd-Inhibitory function)
+
+
+
+There are over 7000 species of frogs which are regarded as critical indicators of ecosystem health, as all amphibians have moist skin and live in a wide variety of environments. 
