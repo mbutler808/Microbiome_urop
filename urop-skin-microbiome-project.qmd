@@ -7,14 +7,10 @@ format:
     toc: false
     number-sections: false
     highlight-style: github
-    cite-method: natbib
-    natbiboptions: numbers
   docx: 
     toc: false
     number-sections: false
     highlight-style: github
-    cite-method: natbib
-    natbiboptions: numbers
   pdf: 
     toc: false
     number-sections: false
@@ -28,7 +24,7 @@ csl: apa.csl
 
 ## Project Description
 
-The skin and its microbiome are the first layer between an organism and its environment. In most-skinned animals such as frogs, the skin mucosa is particularly sensitive to external factors which may vary by habitat or site. The microbiome may play an important functional role in mediating the interaction between the host and its environment [@Troitsky:2023]. Another intruiging role that the microbial community may play is providing some level of protection against pathogens, particularly fungal pathogens, including chytridiomycosis which is linked to mass extinction of many aphibian species [@Bates:2022]. Although skin microbiomes are being characterized, we still know very little about the causes of microbiome diversity, whether bacterial composition provides some functional role, comes directly from the local environment, or is related to host diversity [@Sylvain:2020;@Kruger:2020;@Gajewski:2023;@Garcia-Recinos:2019].  
+The skin and its microbiome are the first layer between an organism and its environment. In moist-skinned animals such as frogs, the skin mucosa is particularly sensitive to external factors which may vary by habitat or site. The microbiome may play an important functional role in mediating the interaction between the host and its environment [@Troitsky:2023]. Another intruiging role that the microbial community may play is providing some level of protection against pathogens, particularly fungal pathogens, including chytridiomycosis which is linked to mass extinction of many amphibian species [@Bates:2022]. Although skin microbiomes are being characterized, we still know very little about the causes of microbiome diversity, whether bacterial composition provides some functional role, comes directly from the local environment, or is related to host diversity [@Sylvain:2020;@Kruger:2020;@Gajewski:2023;@Garcia-Recinos:2019].  
 
 In 2014, the Butler Lab conducted a field expedition to Papua New Guinea, one the worldʻs biggest hotspots for frog diversity and sampled closely related frogs at three sites that vary in ecology (terrestrial, shrub, stream), and live together in complex tropical communities [@Hill:2022].  Fortuitously, these frogs were carefully collected and individually stored in ethanol providing a unique dataset to explore factors which structure skin microbiome using NextGen sequencing metabarcoding methods. By comparing microbial community structure across sites, microhabitats, and species, I will test the hypotheses that microbiome composition is structured by microhabitat use [@Bierlich:2018], influenced by functional benefit such as protection against pathogens [@Bletz:2017], is site specific perhaps resulting from differences in the source population of microbes (e.g., soil microbial diversity), or is host specific [@Zheng:2022]. 
 
