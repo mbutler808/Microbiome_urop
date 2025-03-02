@@ -25,6 +25,12 @@ citations-hover: false
 
 ## Skin Microbiome
 
+<<<<<<< HEAD
+[@Troitsky2023]
+
+- mentions how microbes have first permeate skin which is primary barreier between host and enviroment. microbiome evovle faster than genome can play fund role in host ability to adpat to enviro dist. adapt to climate change faster. 
+
+=======
 [@Belden:2015]
 
 - Overall, our field survey data suggest that different bacterial
@@ -32,6 +38,7 @@ citations-hover: false
    across frog hosts and sites. Community structure and function may not be
    as tightly coupled in these skin symbiont microbial systems as it is in
    many macro systems.
+>>>>>>> 4d8169c1689cd06017ac75d828c53a7850623bd7
 [@Bierlich2018]
 
 - Humpback Whale study about seasonal changes with skin microbiome. Calf to Mother interaction. Microbial diversity increases during foraging season.
