@@ -25,21 +25,31 @@ citations-hover: false
 
 ## Skin Microbiome
 
+<<<<<<< HEAD
 [@Troitsky2023]
 
 - mentions how microbes have first permeate skin which is primary barreier between host and enviroment. microbiome evovle faster than genome can play fund role in host ability to adpat to enviro dist. adapt to climate change faster. 
 
+=======
+[@Belden:2015]
+
+- Overall, our field survey data suggest that different bacterial
+   communities might be producing broadly similar sets of metabolites
+   across frog hosts and sites. Community structure and function may not be
+   as tightly coupled in these skin symbiont microbial systems as it is in
+   many macro systems.
+>>>>>>> 4d8169c1689cd06017ac75d828c53a7850623bd7
 [@Bierlich2018]
 
-Humpback Whale study about seasonal changes with skin microbiome. Calf to Mother interaction. Microbial diversity increases during foraging season.
+- Humpback Whale study about seasonal changes with skin microbiome. Calf to Mother interaction. Microbial diversity increases during foraging season.
 
 [@Callewaert2020]
 
-sequencing, bioinformatics, and multidisciplinary research are transforming our understanding of skin-associated microbial communities across diverse environments and species. It explores how microbes colonize the skin of humans, large mammals like humpback whales, and aquatic organisms, while emphasizing the influence of environmental factors such as water and air.
+- sequencing, bioinformatics, and multidisciplinary research are transforming our understanding of skin-associated microbial communities across diverse environments and species. It explores how microbes colonize the skin of humans, large mammals like humpback whales, and aquatic organisms, while emphasizing the influence of environmental factors such as water and air.
 
 [@Larsen2013]
 
-Skin microbiota of fishes good oints towards host species specificity. extensive detail on cr and sequencing and data analysis of what can be done. interesting concet of the donminant microbiota. discusses seasonal changes.
+- Skin microbiota of fishes good oints towards host species specificity. extensive detail on cr and sequencing and data analysis of what can be done. interesting concet of the donminant microbiota. discusses seasonal changes.
 
 [@Kruger2020]
 
@@ -51,7 +61,7 @@ Skin microbiota of fishes good oints towards host species specificity. extensive
 
 [@Sylvain2020]
 
-gut microbiome of teleost fish is shaped by species-specific factors, while the skin mucus microbiome is more influenced by environmental conditions, making it a potential biomarker for ecosystem changes.
+- gut microbiome of teleost fish is shaped by species-specific factors, while the skin mucus microbiome is more influenced by environmental conditions, making it a potential biomarker for ecosystem changes.
 
 [@Tarnecki2013]
 
@@ -59,12 +69,38 @@ gut microbiome of teleost fish is shaped by species-specific factors, while the 
 
 [@Zheng2022]
 
--Human study ID's individual-specific microbial DNA fingerprints from skin microbiomes using metagenomic sequencing data. These fingerprints are stable over time, independent of body site, and can accurately identify donors with 89.78% accuracy. The analysis revealed that 10 out of 12 individual-specific fingerprints could be aligned to Cutibacterium acnes, proving the potential of these microbial markers for personal identification.
+- Human study ID's individual-specific microbial DNA fingerprints from skin microbiomes using metagenomic sequencing data. These fingerprints are stable over time, independent of body site, and can accurately identify donors with 89.78% accuracy. The analysis revealed that 10 out of 12 individual-specific fingerprints could be aligned to Cutibacterium acnes, proving the potential of these microbial markers for personal identification.
 
 [@Skowron2021]
 
-study of human skin microbiome in maintaining skin health, emphasizing how its complex microbial community—including bacteria, fungi, viruses, archaea, mites, and phages—interacts with the immune system and responds to internal and external environmental factors. It highlights the impact of microbiome imbalances (dysbiosis) on skin diseases, discusses molecular identification techniques for studying these microorganisms, and underscores the broader systemic consequences of skin microbiome disturbances beyond dermatological conditions
+- study of human skin microbiome in maintaining skin health, emphasizing how its complex microbial community—including bacteria, fungi, viruses, archaea, mites, and phages—interacts with the immune system and responds to internal and external environmental factors. It highlights the impact of microbiome imbalances (dysbiosis) on skin diseases, discusses molecular identification techniques for studying these microorganisms, and underscores the broader systemic consequences of skin microbiome disturbances beyond dermatological conditions
 
+
+
+ 
+## Environmental Factors - Skin Microbiome
+
+[@Hughey:2017]
+
+- Skin microbiome of _Elutherodactylus coqui_ along an altitudinal gradient and two land use categories (intact forest vs. disturbed forest). Alpha diversity varied but not with alititude nor land use. Beta diversity (community structure), varied with site, elevation and land use, primarily due to changes in the relative abundance of certain bacterial OTUs.
+
+[@Ellison:2019] 
+
+- Compared skin microbiome of 2 genera of plethodontid salamander and 1 genus of frogs in montane Mexico and Guatemala. phylogenetic history strongly influences the diversity and community structure of the total bacterial microbiome (between orders), but on lower scales (within genera and species), the effect of habitat predominates.  Growing consensus that habitat exerts a strong effect on microbiome structure and composition, particularly at shallow phylogenetic scales.
+
+[@Gajewski:2023]
+
+- Host and environmental factors in 3 species of sympatric ranid frogs. Skin swabs from tadpoles and adults. 16S bacterial communities change across developmental stage, found microbiome communities from skin of frogs in streams or bogs differed from terrestrial. Effect of habitat use on host-associated microbiome. 
+
+[@Garcia-Recinos:2019]
+
+- Elutherodactylus frogs skin microbiome hypothesized to be mostly related to microhabitat use but differ by locality. Sequenced V4 region of 16S rRNA gene. Locality had greatest efffect on composition (presence/absence) rather than structure (abundance). But some suggestion that ecological disparity translates into differences in microbiome. 
+
+## Barcoding with MinION
+
+[@Srivathsan:2021]
+
+[@Vasilita:2024]
 
 ## Gut Microbiome
 
