@@ -28,16 +28,26 @@ csl: apa.csl
 
 ## Project Description
 
-The skin microbiome represents the first layer of defense against environmental pathogens, and may be involved in important functional relationships between the host and the environment. Although many skin microbiomes have been characterized, we still know little about the causes of microbiome diversity, whether bacterial composition provides functional benefit, is related to environmental factors, or is host-specific [@.  
+The skin and its microbiome are the first layer between an organism and its environment. In most-skinned animals such as frogs, the skin mucosa is particularly sensitive to external factors which may vary by habitat or site. The microbiome may play an important functional role in mediating the interaction between the host and its environment [@Troitsky:2023]. Another intruiging role that the microbial community may play is providing some level of protection against pathogens, particularly fungal pathogens, including chytridiomycosis which is linked to mass extinction of many aphibian species [@Bates:2022]. Although skin microbiomes are being characterized, we still know very little about the causes of microbiome diversity, whether bacterial composition provides some functional role, comes directly from the local environment, or is related to host diversity [@Sylvain:2020;@Kruger:2020;@Gajewski:2023;@Garcia-Recinos:2019].  
 
-Organisms host diverse communities of microbes on their skin, known as the skin microbiome, however, there is much speculation about what factors influence variations in the microbiome across organisms (Troitsky et al 2023). This study explores three key hypotheses regarding microbiome variation in the microhylid frogs.One leading hypothesis is that the microbiome is species-specific, like a microbial fingerprint(Zheng et al 2022). Alternatively,  environmental factors may drive microbiome composition (Bierlich et al 2018). Another possibility is that certain microbial species persist across different hosts due to a shared functional benefit, such as protection against pathogenesis.(Bletz et al 2017).
+In 2014, the Butler Lab conducted a field expedition to Papua New Guinea, one the worldʻs biggest hotspots for frog diversity and sampled closely related frogs at three sites that vary in ecology (terrestrial, shrub, stream), and live together in complex tropical communities [@Hill:2022].  Fortuitously, these frogs were carefully collected and individually stored in ethanol providing a unique dataset to explore factors which structure skin microbiome using NextGen sequencing metabarcoding methods. By comparing microbial community structure across sites, microhabitats, and species, I will test the hypotheses that microbiome composition is structured by microhabitat use [@Bierlich:2018], influenced by functional benefit such as protection against pathogens [@Bletz:2017], is site specific perhaps resulting from differences in the source population of microbes (e.g., soil microbial diversity), or is host specific [@Zheng:2022]. 
 
-
-Hypothesis 1: microbiome is species specific, like a "fingerprint"(Zheng et al 2022 Identifying individual-specific microbial DNA fingerprints from skin microbiomes
- ). Vs. 
-Hypothesis 2: skin microbiome is derived from the locality , so species in the same locality or same microhabitat will share a common microbiome.(Bierlich et al 2018 Humpback whale Microbial diversity increases during foraging season.) 
-Hypothesis 3: Parts of microbiome may have functional benefits. In this case we expect frogs to share parts of the microbiome despite being different species or at different localities  or microhabitats. (Bletz et al 2017 Bd-Inhibitory function)
+## Signficance
 
 
+There are over 7000 species of frogs which are widely regarded as critical indicators of ecosystem health, as all amphibians have moist skin, are sensitive to environmental changes, and better to reveal complex skin microbiome dynamics. 
 
-There are over 7000 species of frogs which are regarded as critical indicators of ecosystem health, as all amphibians have moist skin and live in a wide variety of environments. 
+Microbiome studies are rapidly growing in number yet we still know little about whether community composition is an accident of circumstance or whether it serves important functions. Are the skin bacteria and fungi simply a sample of the soil where they happen to live, or do the particular combination of microbes confer protection, such as inhibiting or outcompeting pathogens, anti-fungal protection, immune boosts [@Bates:2022]?  Given the devastating role of emerging fungal pathogens [@Schilliger:2023], understanding the relationships between microbial and fungal diversity are critical. 
+
+Alternatively do microbiomes mediate the absorption of water, nutrients, and functional exchanges with the environment [@Hughey:2017]? Comparing microbiomes of frogs that live together at the same site, but are found in the leaf litter vs. on plants vs. in the stream can reveal these associations [@Gajewski:2023;@Garcia-Recinos:2019], lessons which are applicable to all species. 
+
+Finally my study will provide an important baseline for understanding the relationship between skin and gut microbiome, and for future studies using museum specimens which have been formalin-fixed. While challenging to sequence, unlocking this "biobank" will provide access to thousands of important historical and geographical samples. 
+
+
+
+
+
+
+
+
+
