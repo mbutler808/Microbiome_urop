@@ -24,7 +24,7 @@ csl: apa.csl
 
 ## Project Description
 
-The skin and its microbiome are the first layer between an organism and its environment. In moist-skinned animals such as frogs, the skin mucosa is particularly sensitive to external factors which may vary by habitat or site. The microbiome may play an important functional role in mediating the interaction between the host and its environment [@Troitsky:2023]. Another intruiging role that the microbial community may play is providing some level of protection against pathogens, particularly fungal pathogens, including chytridiomycosis which is linked to mass extinction of many amphibian species [@Bates:2022]. Although skin microbiomes are being characterized, we still know very little about the causes of microbiome diversity, whether bacterial composition provides some functional role, comes directly from the local environment, or is related to host diversity [@Sylvain:2020;@Kruger:2020;@Gajewski:2023;@Garcia-Recinos:2019].  
+The skin and its microbiome are the first layer between an organism and its environment. In moist-skinned animals such as frogs, the skin mucosa is particularly sensitive to external factors which may vary by habitat or site. The microbiome may play an important functional role in mediating the interaction between the host and its environment [@Troitsky:2023]. Another intruiging role that the microbial community may play is providing some level of protection against pathogens, particularly fungal pathogens, including chytridiomycosis which is linked to mass extinction of many amphibian species [@Bates:2022]. Although skin microbiomes are being characterized, we still know very little about the causes of microbiome diversity, whether bacterial composition play some functional role, comes directly from the local environment, or is related to host diversity [@Sylvain:2020;@Kruger:2020;@Gajewski:2023;@Garcia-Recinos:2019].  
 
 In 2014, the Butler Lab conducted a field expedition to Papua New Guinea, one the worldʻs biggest hotspots for frog diversity and sampled closely related frogs at three sites that vary in ecology (terrestrial, shrub, stream), and live together in complex tropical communities [@Hill:2022].  Fortuitously, these frogs were carefully collected and individually stored in ethanol providing a unique dataset to explore factors which structure skin microbiome using NextGen sequencing metabarcoding methods. By comparing microbial community structure across sites, microhabitats, and species, I will test the hypotheses that microbiome composition is structured by microhabitat use [@Bierlich:2018], influenced by functional benefit such as protection against pathogens [@Bletz:2017], is site specific perhaps resulting from differences in the source population of microbes (e.g., soil microbial diversity), or is host specific [@Zheng:2022]. 
 
@@ -40,8 +40,14 @@ Alternatively do microbiomes mediate the absorption of water, nutrients, and fun
 Finally my study will provide an important baseline for understanding the relationship between skin and gut microbiome, and for future studies using museum specimens which have been formalin-fixed. While challenging to sequence, unlocking this "biobank" will provide access to thousands of important historical and geographical samples. 
 
 
+## Process/Methodology
+
+DNA will be isolated from sterile skin swabs of frog samples stored in ethanol at -20C in the Butler lab using Qiagen DNeasy kits. Bacterial 16S rRNA V4 region [@Madison:2023] and fungal ITS region[@Insuk:2024] sequences will be amplified using universal primers following the indicated protocols. Amplicons will be purified, unique barcodes attached to identify each frog sample, pooled, and sequenced following Next-Gen protocols using MinION Flongle [@Srivathsan:2021;@Vasilita:2024]. ONTbarcoder will be used to generate demultiplexed, high-quality barcodes [@Srivathsan:2021].  Taxonomic assignments will be conducted via BLAST, and phylogenies constructed using IQTREE2. 
+
+Microbiome diversity and compositional variation across host species, microhabitats, and localities, will be analyzed using the vegan package in the R statistical computing environment. The hypotheses can be assessed in several ways: if microbiome diversity is structured by microhabitat, we should see similarity in microbial generic composition by host microhabitat (terrestrial vs. shrub vs. stream) rather than by host genus or by site [e.g., @Sylvain:2020]. Similarly, network cluster analysis should reveal which factor is dominant (microhabitat, site, or host genus). We will also assess the strength of correlations between microbial and fungal taxa, and dominance of taxa of interest. 
 
 
+## Timetable
 
 
 
